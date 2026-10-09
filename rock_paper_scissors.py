@@ -18,7 +18,8 @@ while True:
     print("3. scissor")
     print("4. Quit game")
 # Accept the user's choice.
-    x = int(input("enter your choice between(1,2,3.4):"))
+    x = int(input("enter your choice between(1,2,3,3" \
+    "4):"))
 
 # if dosenot want to paly more.
     if x == 4:
